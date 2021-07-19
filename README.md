@@ -1,13 +1,13 @@
-# Swar's Chia Plot Manager 
+# Swar's Chives Plot Manager 
 
-#### A plot manager for Chia plotting: https://www.chia.net/
+#### A plot manager for Chives plotting: https://www.chia.net/
 [English](README.md) / [Русский](README.RU.md)
 
 ![The view of the manager](https://i.imgur.com/hIhjXt0.png "View")
 
 ##### Development Version: v0.1.0
 
-This is a cross-platform Chia Plot Manager that will work on the major operating systems. This is not a plotter. The purpose of this library is to manage your plotting and kick off new plots with the settings that you configure. Everyone's system is unique so customization is an important feature that was engraved into this library.
+This is a cross-platform Chives Plot Manager that will work on the major operating systems. This is not a plotter. The purpose of this library is to manage your plotting and kick off new plots with the settings that you configure. Everyone's system is unique so customization is an important feature that was engraved into this library.
 
 This library is simple, easy-to-use, and reliable to keep the plots generating.
 
